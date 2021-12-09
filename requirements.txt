@@ -28,4 +28,3 @@ Werkzeug==2.0.2
 wtf==0.1
 WTForms==3.0.0
 zipp==3.6.0
-
